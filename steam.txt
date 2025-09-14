@@ -51,3 +51,4 @@ st.dl.bscstorage.net
 cdn.mileweb.cs.steampowered.com.8686c.com
 steamcdn-a.akamaihd.net
 *.steamserver.net
+steam-software.dlt.qwilted-cds.cqloud.com
